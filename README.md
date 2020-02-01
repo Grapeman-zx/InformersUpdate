@@ -1,0 +1,2 @@
+# InformersUpdate
+InformersGameUpdateResources
